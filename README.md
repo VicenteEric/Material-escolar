@@ -1,7 +1,7 @@
 # Material-escolar
 <!DOCTYPE.html>
 <html lang="PT-BR"><head>
-<meta charset="UTF-8" <body>
+<meta charset="UTF-8"> <body>
       
 <h1><font color="blue">Lista de material escolar</h1></font><strong><font color="green"><strong><h2>Principais materiais</font></strong></h2>
     
